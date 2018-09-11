@@ -1,5 +1,5 @@
-token=NDgzNzM3MDUyMTk4ODYyODY5.DncLnw.NmRisUF5hgZWVwIVv07AS33dk2k
+token=NDcyOTczNTM5NTc0NTQ2NDQz.DnixWw.JSiH9lWeFTuVT_JH_cRtn_Ry4PQ
 owner=201632163991519233 
-prefix=+
-game=Listening to DarkKing
+prefix=!
+game=Listening to *LastMagic*
 status=dnd
