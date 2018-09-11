@@ -1,0 +1,5 @@
+token=NDgzNzM3MDUyMTk4ODYyODY5.DncLnw.NmRisUF5hgZWVwIVv07AS33dk2k
+owner=201632163991519233 
+prefix=+
+game=Listening to DarkKing
+status=dnd
